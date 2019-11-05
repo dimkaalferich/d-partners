@@ -1,0 +1,2 @@
+# d-partners
+learn git
