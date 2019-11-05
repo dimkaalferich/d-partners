@@ -2,5 +2,5 @@
 learn git
 
 
-making new descriotions
+making new descriptions
 
